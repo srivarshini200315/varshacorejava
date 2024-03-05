@@ -10,6 +10,8 @@ public class sample {
 		b=s.nextInt();
 		c=a+b;
         System.out.println("addition of a="+a+" and b="+b+"is:"+c);
+        c=a-b;
+        System.out.println("Subtraction of a="+a+" and b="+b+"is:"+c);
 	}
 
 }
